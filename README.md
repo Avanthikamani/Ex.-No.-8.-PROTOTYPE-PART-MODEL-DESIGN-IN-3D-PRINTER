@@ -49,8 +49,8 @@
 <img width="1710" alt="Screenshot 2024-12-20 at 8 59 32 PM" src="https://github.com/user-attachments/assets/bccbff27-15bc-4647-bbfd-bb1bb59f8ada" />
 
 
-### Name: PRIYAN
-### Register Number: 24000051
+### Name: Avanthika M
+### Register Number: 212224110009
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
